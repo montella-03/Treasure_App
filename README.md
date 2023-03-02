@@ -1,11 +1,11 @@
 <img
-src=“assets/images/scren.png
+src=“../images/scren.png
 raw=true
 alt='screen 1'
 />
 
 <img
-src=“./assets/images/screen.png
+src=“../images/screen.png
 raw=true
 alt='screen 1'
 />
